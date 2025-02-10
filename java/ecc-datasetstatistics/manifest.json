@@ -1,0 +1,13 @@
+{
+   "workshoptitle": "Understand Dataset Statistics",
+   "help": "livelabs-help-sprints_us@oracle.com",
+   "tutorials": [
+      {
+         "title": "Understand Dataset Statistics",
+         "description": "Learn how to change security settings in the JDK with the java.security file.",
+         "filename": "ecc-datasetstatistics.md"
+
+      }
+   ],
+   "task_type": "Sections"
+}
